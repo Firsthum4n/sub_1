@@ -1,0 +1,6 @@
+{
+    "type": "petrovich",
+    "showSettingsOnMobile": true,
+    "dynamicDurationQ": false,
+    "settingsFormat": "json"
+}

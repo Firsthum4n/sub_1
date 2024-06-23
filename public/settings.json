@@ -1,0 +1,39 @@
+{
+    "settings": {
+        "localisation": "ru",
+        "settingsView": "column",
+        "fileFolder":[],
+        "video": [],
+        "video1": [],
+        "naimenovanie1": "Индейка",
+        "naimenovanie2": "Карбонад",
+        "naimenovanie3": "Ветчина",
+        "naimenovanie4": "Кордон блю мелт",
+        "naimenovanie5": "Индейка",
+        "naimenovanie6": "Ветчина",
+        "cmsData": {
+            "title": {
+                "ru": "",
+                "en": "",
+                "es": "",
+                "pt": "",
+                "kz": ""
+            },
+            "shortDescription": {
+                "ru": "",
+                "en": "",
+                "es": "",
+                "pt": "",
+                "kz": ""
+            },
+            "description": {
+                "ru": "",
+                "en": "",
+                "es": "",
+                "pt": "",
+                "kz": ""
+            },
+            "version": "1.1.2"
+        }
+    }
+}

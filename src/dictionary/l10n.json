@@ -1,0 +1,288 @@
+{
+  "save": {
+    "ru": "Сохранить",
+    "en": "Save",
+    "pt": "Salvar",
+    "es": "Salvar",
+    "kz": "Сақтау"
+  },
+  "saveSettings": {
+    "ru": "Применить настройки",
+    "en": "Save settings",
+    "pt": "Aplicar configurações",
+    "es": "Aplicar configuraciones",
+    "kz": "Параметрлерді қолдану"
+  },
+  "delete": {
+    "ru": "Удалить",
+    "en": "Delete",
+    "pt": "Excluir",
+    "es": "Borrar",
+    "kz": "Жою"
+  },
+  "edit": {
+    "ru": "Редактировать",
+    "en": "Edit",
+    "pt": "Editar",
+    "es": "Editar",
+    "kz": "Өңдеу"
+  },
+  "widgetEditorTitle": {
+    "ru": "Настройки виджета",
+    "en": "Widget settings",
+    "pt": "Configurações do widget",
+    "es": "Configuración de widgets",
+    "kz": "Виджет параметрлері"
+  },
+  "selectLanguage": {
+    "ru": "Выберите язык",
+    "en": "Select language",
+    "pt": "Escolha o seu idioma",
+    "es": "Elige lengua",
+    "kz": "Тілді таңдаңыз"
+  },
+  "slideDuration": {
+    "ru": "Длительность слайда (сек)",
+    "en": "Slide duration (sec)",
+    "es": "Duración del slide (seg)",
+    "pt": "Duração do slide (seg)"
+  },
+  "image": {
+    "ru": "Изображение",
+    "en": "Image",
+    "pt": "Imagem",
+    "es": "Imagen",
+    "kz": "Кескін"
+  },
+  "images": {
+    "ru": "Изображения",
+    "en": "Images",
+    "pt": "Imagens",
+    "es": "Imágenes",
+    "kz": "Суреттер"
+  },
+  "video": {
+    "ru": "Видео",
+    "en": "Video",
+    "pt": "Vídeo",
+    "es": "Video",
+    "kz": "Бейне"
+  },
+  "selectVideo": {
+    "ru": "Выбрать видео",
+    "en": "Select video",
+    "pt": "Selecionar vídeo",
+    "es": "Seleccionar vídeo",
+    "kz": "Бейнені таңдаңыз"
+  },
+  "cantDeleteLastItem": {
+    "ru": "Невозможно удалить последний элемент",
+    "en": "Can't delete last item",
+    "pt": "Não é possível remover o último elemento",
+    "es": "No se puede eliminar el último elemento",
+    "kz": "Соңғы элементті жою мүмкін емес"
+  },
+  "column": {
+    "ru": "Колонка",
+    "en": "Column",
+    "pt": "Coluna",
+    "es": "Columna",
+    "kz": "Баған"
+  },
+  "editableText": {
+    "ru": "Стилизованный текст",
+    "en": "Styling text",
+    "pt": "Texto estilizado",
+    "es": "Texto estilizado",
+    "kz": "Стильденген мәтін"
+  },
+  "closeEditor": {
+    "ru": "Закрыть редактор",
+    "en": "Close editor",
+    "pt": "Fechar editor",
+    "es": "Cerrar editor",
+    "kz": "Редакторды жабу"
+  },
+  "uploadFileSettings": {
+    "ru": "Загрузить файл настроек",
+    "en": "Upload file settings",
+    "es": "Cargar el archivo de configuración",
+    "pt": "Carregar ficheiro de configurações",
+    "kz": "Параметрлер файлын жүктеп алыңыз"
+  },
+  "downloadFileSettings": {
+    "ru": "Скачать файл настроек",
+    "en": "Download file settings",
+    "es": "Descargar el archivo de configuración",
+    "pt": "Baixar ficheiro de configurações",
+    "kz": "Параметрлер файлын жүктеп алыңыз"
+  },
+  "changeSelection": {
+    "ru": "Изменить выбор",
+    "en": "Change selection",
+    "es": "Cambiar selección",
+    "pt": "Alterar seleção",
+    "kz": "Таңдауды өзгерту"
+  },
+  "selectImages": {
+    "ru": "Выберите изображения",
+    "en": "Select images",
+    "es": "Seleccionar imágenes",
+    "pt": "Selecionar imagens",
+    "kz": "Суреттерді таңдаңыз"
+  },
+  "selectVideoFolder": {
+    "ru": "Выбрать папку с видео",
+    "en": "Select folder with video",
+    "es": "Seleccionar carpeta de videos",
+    "pt": "Selecione a pasta de vídeo",
+    "kz": "Бейне қалтасын таңдаңыз"
+  },
+  "selectPhotoFolder": {
+    "ru": "Выбрать папку с картинками",
+    "en": "Select folder with images",
+    "es": "Seleccionar carpeta con imágenes",
+    "pt": "Selecione a pasta com fotos",
+    "kz": "Суреттері бар қалтаны таңдаңыз"
+  },
+  "videoGroup": {
+    "ru": "Группа видео",
+    "en": "Video group",
+    "es": "Grupo de vídeo",
+    "pt": "Grupo de vídeos",
+    "kz": "Бейне топ"
+  },
+  "mixedContent": {
+    "ru": "Смешанный контент",
+    "en": "Mixed content",
+    "es": "Contenido mixto",
+    "pt": "Conteúdo misto",
+    "kz": "Аралас мазмұн"
+  },
+  "audios": {
+    "ru": "Группа аудио",
+    "en": "Audio group",
+    "es": "grupo de audio",
+    "pt": "Grupo de áudio",
+    "kz": "Аудио тобы"
+  },
+  "reset": {
+    "ru": "Сбросить",
+    "en": "Reset",
+    "es": "Reiniciar",
+    "pt": "Redefinir",
+    "kz": "Қалпына келтіру"
+  },
+  "widgetColor": {
+    "ru": "Фон виджета",
+    "en": "Widget background",
+    "es": "Fondo de widget",
+    "pt": "Plano de fundo do widget",
+    "kz": "Виджет фоны"
+  },
+  "widgetFontSizeAndBackgroundColor": {
+    "ru": "Размер шрифта и фон виджета",
+    "en": "Widget font size and background",
+    "es": "Tamaño de fuente y fondo del widget",
+    "pt": "Tamanho da fonte e plano de fundo do widget",
+    "kz": "Виджет қаріп өлшемі және фоны"
+  },
+  "widgetFontSize": {
+    "ru": "Размер шрифта виджета",
+    "en": "Widget font size",
+    "es": "Tamaño de fuente del widget",
+    "pt": "Tamanho da fonte do widget",
+    "kz": "Виджет қаріп өлшемі"
+  },
+  "serverUrl": {
+    "ru": "Адрес сервера",
+    "en": "Server URL",
+    "es": "Dirección del servidor",
+    "pt": "Endereço do servidor",
+    "kz": "Сервер мекенжайы"
+  },
+  "emailFrom": {
+    "ru": "Email адрес для указания в поле 'отправитель'",
+    "en": "Email address to specify in the 'sender' field",
+    "es": "Dirección de correo electrónico para especificar en el campo 'remitente'",
+    "pt": "Endereço de e-mail para especificar no campo 'remetente'",
+    "kz": "\"Жіберуші\" өрісінде көрсетілетін электрондық пошта мекенжайы"
+  },
+  "actionButtonText": {
+    "ru": "Текст кнопки",
+    "en": "Button text",
+    "es": "Botón de texto",
+    "pt": "Botão de texto",
+    "kz": "Түйме мәтіні"
+  },
+  "actionButtonEmail": {
+    "ru": "Email для отправки по нажатию кнопки",
+    "en": "Email to send on button click",
+    "es": "Correo electrónico para enviar al hacer clic en el botón",
+    "pt": "E-mail para enviar ao clicar no botão",
+    "kz": "Түймені басу арқылы жіберілетін электрондық пошта"
+  },
+  "requestInfo": {
+    "ru": "Сообщение отображаемое при отправке письма",
+    "en": "Message displayed when sending an email",
+    "es": "Mensaje que se muestra al enviar un correo electrónico",
+    "pt": "Mensagem exibida ao enviar um e-mail",
+    "kz": "Хабар электрондық поштаны жіберу кезінде көрсетіледі"
+  },
+  "successInfo": {
+    "ru": "Сообщение, отображаемое после отправки письма",
+    "en": "Message displayed after sending an email",
+    "es": "Mensaje que se muestra después de enviar un correo electrónico",
+    "pt": "Mensagem exibida após o envio de um e-mail",
+    "kz": "Хабар электрондық поштаны жібергеннен кейін көрсетіледі"
+  },
+  "timeoutSuccessMessage": {
+    "ru": "Время показа сообщения после отправки письма (сек)",
+    "en": "Message display time after email is sent (sec)",
+    "es": "Tiempo de visualización del mensaje después de enviar el correo electrónico (sec)",
+    "pt": "Tempo de exibição da mensagem após o envio do e-mail (sec)",
+    "kz": "Хат жіберілгеннен кейін хабарды көрсету уақыты (сек)"
+  },
+  "buttonBackgroundColor": {
+    "ru": "Цвет кнопок",
+    "en": "Button color",
+    "es": "Color del boton",
+    "pt": "Cor do botao",
+    "kz": "Түйменің түсі"
+  },
+  "buttonPressedBackgroundColor": {
+    "ru": "Цвет нажатой кнопки",
+    "en": "Pressed button color",
+    "es": "Color del botón presionado",
+    "pt": "Cor do botão pressionado",
+    "kz": "Басылған түйме түсі"
+  },
+  "buttonTextColor": {
+    "ru": "Цвет текста кнопок",
+    "en": "Button text color",
+    "es": "Color del texto del botón",
+    "pt": "Cor do texto do botão",
+    "kz": "Түйме мәтінінің түсі"
+  },
+  "settings": {
+    "ru": "Настройки",
+    "en": "Settings",
+    "es": "Ajustes",
+    "pt": "Configurações",
+    "kz": "Параметрлер"
+  },
+  "emailSubject": {
+    "ru": "Заголовок письма",
+    "en": "Email header",
+    "es": "Encabezado de correo electrónico",
+    "pt": "Cabeçalho do e-mail",
+    "kz": "Электрондық пошта тақырыбы"
+  },
+  "emailContent": {
+    "ru": "Содержание письма",
+    "en": "Content of the letter",
+    "es": "contenido de la carta",
+    "pt": "Conteúdo da carta",
+    "kz": "Хаттың мазмұны"
+  }
+}
