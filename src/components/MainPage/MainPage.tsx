@@ -31,21 +31,27 @@ export const MainPage = ({ settings, auth }: any) => {
         }
         
     },settings.video1)
+    
+
 
 
     return (
         <div className={styles.testWrapper} >
                 <video
                     ref={videoRef}
+                    z-index='0'
                     autoPlay
                     loop
                     muted
                     src={videoSrc}
                     width='50%'
                     height='100%'
+                    
+                    
                     />
                 <video
                     ref={videoRef1}
+                    z-index='0'
                     autoPlay
                     loop
                     muted
@@ -53,10 +59,10 @@ export const MainPage = ({ settings, auth }: any) => {
                     width='50%'
                     height='100%'
                     margin-left="960px"
+                    
                     />
                 <aside>
                     <ul>
-                        <li>{settings.naimenovanie1}</li>
                         <li>{settings.naimenovanie2}</li>
                         <li>{settings.naimenovanie3}</li>
                         <li>{settings.naimenovanie4}</li>

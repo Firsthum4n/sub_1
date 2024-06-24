@@ -11,37 +11,16 @@
   align-content: space-between;
 }
 
-.leftBodyrDiv {
-  width: 48%;
-  background-color: #FFFFFF;
 
+video {
+  overflow: hide;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
 }
 
-.leftHeaderDiv{
-  width: 48%;
-  height: 100%;
-  background-color: #FFFFFF;
 
-}
-
-.rightHeaderDiv {
-  margin-left: 960px;
-  margin-bottom: 1080px;
-  width: 48%;
-  height: 100%;
-  background-color: #000000;
-
-}
-
-.rightBodyrDiv {
-  margin-left: 960px;
-  margin-bottom: 1080px;
-  width: 48%;
-  height: 100%;
-  background-color: #000000;
-
-
-}
 
 aside {
   float: left;
@@ -52,10 +31,13 @@ aside {
   color: #00922565;
   font-size: 30px;
   font-weight: 100;
+  z-index: 2
+  position absolute;
   
 }
 
 aside ul {
   list-style: none;
+  position: absolute;
 
 }
