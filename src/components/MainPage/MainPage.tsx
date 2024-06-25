@@ -15,7 +15,7 @@ export const MainPage = ({ settings, auth }: any) => {
     return (
         <div className={styles.testWrapper} >
             <div className={styles.UpperText} >
-                <li>{settings.naimenovanie2}</li>
+                <li>{settings.naimenovanie1}</li>
                 <li>{settings.naimenovanie2}</li>
                 <li>{settings.naimenovanie3}</li>
                 <li>{settings.naimenovanie4}</li>
@@ -23,7 +23,7 @@ export const MainPage = ({ settings, auth }: any) => {
                 <li>{settings.naimenovanie6}</li>
                 <li>{settings.naimenovanie7}</li>
             </div>
-            <div className={styles.Price} >
+            <div className={styles.Price15} >
                 <li>{settings.cena1}</li>
                 <li>{settings.cena2}</li>
                 <li>{settings.cena3}</li>
