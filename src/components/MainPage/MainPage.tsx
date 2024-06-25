@@ -12,67 +12,27 @@ type Files = {
 export const MainPage = ({ settings, auth }: any) => {
     moment.locale('ru')
 
-    const videoRef = useRef() as React.MutableRefObject<any>
-    const videoSrc = settings.video.length ? settings.video[0].src : ''
-
-    const videoRef1 = useRef() as React.MutableRefObject<any>
-    const videoSrc1 = settings.video1.length ? settings.video1[0].src : ''
-
-    useEffect(() => {
-        if (settings.video) {
-            videoRef.current && videoRef.current.play()
-        }
-        
-    },  settings.video)
-
-    useEffect(() => {
-        if (settings.video1) {
-            videoRef.current && videoRef.current.play()
-        }
-        
-    },settings.video1)
-    
-
-
-
     return (
         <div className={styles.testWrapper} >
-                <video
-                    ref={videoRef}
-                    z-index='0'
-                    autoPlay
-                    loop
-                    muted
-                    src={videoSrc}
-                    width='50%'
-                    height='100%'
-                    
-                    
-                    />
-                <video
-                    ref={videoRef1}
-                    z-index='0'
-                    autoPlay
-                    loop
-                    muted
-                    src={videoSrc1}
-                    width='50%'
-                    height='100%'
-                    margin-left="960px"
-                    
-                    />
-                <aside>
-                    <ul>
-                        <li>{settings.naimenovanie2}</li>
-                        <li>{settings.naimenovanie3}</li>
-                        <li>{settings.naimenovanie4}</li>
-                        <li>{settings.naimenovanie5}</li>
-                        <li>{settings.naimenovanie6}</li>
-                    </ul>
-                </aside>
+            <div className={styles.UpperText} >
+                <li>{settings.naimenovanie2}</li>
+                <li>{settings.naimenovanie2}</li>
+                <li>{settings.naimenovanie3}</li>
+                <li>{settings.naimenovanie4}</li>
+                <li>{settings.naimenovanie5}</li>
+                <li>{settings.naimenovanie6}</li>
+                <li>{settings.naimenovanie7}</li>
             </div>
-
-
+            <div className={styles.Price} >
+                <li>{settings.cena1}</li>
+                <li>{settings.cena2}</li>
+                <li>{settings.cena3}</li>
+                <li>{settings.cena4}</li>
+                <li>{settings.cena5}</li>
+                <li>{settings.cena6}</li>
+                <li>{settings.cena7}</li>
+            </div>
+        </div>
         )
     }
 

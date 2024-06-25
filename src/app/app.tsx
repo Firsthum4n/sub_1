@@ -345,16 +345,6 @@ class App extends React.Component<IAppProps, IAppState> {
                                                 type: 'localisation'
                                             }, 
                                             {
-                                                name: 'video',
-                                                label: translate('video'),
-                                                type: 'video'
-                                            },
-                                            {
-                                                name: 'video1',
-                                                label: translate('video'),
-                                                type: 'video'
-                                            },
-                                            {
                                                 name: 'naimenovanie1',
                                                 label: 'naimenovanie1',
                                             },
@@ -377,7 +367,40 @@ class App extends React.Component<IAppProps, IAppState> {
                                             {
                                                 name: 'naimenovanie6',
                                                 label: 'naimenovanie6',
+                                            },
+                                            {
+                                                name: 'naimenovanie7',
+                                                label: 'naimenovanie7',
+                                            },
+                                            {
+                                                name: 'cena1',
+                                                label: 'cena-1',
+                                            },
+                                            {
+                                                name: 'cena2',
+                                                label: 'cena-2',
+                                            },
+                                            {
+                                                name: 'cena3',
+                                                label: 'cena-3',
+                                            },
+                                            {
+                                                name: 'cena4',
+                                                label: 'cena-4',
+                                            },
+                                            {
+                                                name: 'cena5',
+                                                label: 'cena-5',
+                                            },
+                                            {
+                                                name: 'cena6',
+                                                label: 'cena-6',
+                                            },
+                                            {
+                                                name: 'cena6',
+                                                label: 'cena-6',
                                             }
+
                                         ]
                                     },
                                 ]}

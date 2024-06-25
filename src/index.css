@@ -6,12 +6,13 @@
 
 html {
     height: 100%;
+    width: 100%;
 }
 body {
     position: relative;
     height: 100%;
+    width: 100%;
     background-color: transparent; /* widget background */
-    touch-action: pan-x pan-y !important;
 }
 
 #root {

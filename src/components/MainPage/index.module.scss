@@ -1,26 +1,37 @@
 .testWrapper {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  margin: 0 auto;
-  background-color: #ffffff;
-  padding: 13px 28px 19px 23px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-content: space-between;
+  width: 960px;
+  height: 1080px;
+  float: left;
+  background-image: url(photo1.jpg);
+  background-color: #fc000000;
+  position: static;
 }
 
-
-video {
-  overflow: hide;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-content: space-between;
+.UpperText {
+  color: #097637;
+  background-color: #fa000000;
+  height: 690px;
+  width: 470px;
+  margin-left: 50px;
+  margin-top: 258px;
+  list-style: none;
+  font-size: 30px;
+  line-height: 45px;
 }
 
+.Price {
+  color: #097637;
+  background-color: #fa00004b;
+  height: 690px;
+  width: 150px;
+  margin-left: 550px;
+  margin-top: 258px;
+  list-style: none;
+  font-size: 30px;
+  line-height: 45px;
 
+
+}
 
 aside {
   float: left;
@@ -31,13 +42,11 @@ aside {
   color: #00922565;
   font-size: 30px;
   font-weight: 100;
-  z-index: 2
-  position absolute;
+  position: absolute;
   
 }
 
 aside ul {
   list-style: none;
-  position: absolute;
 
 }
