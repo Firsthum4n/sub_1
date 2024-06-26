@@ -36,16 +36,20 @@
 
 .LowerText {
   color: rgb(9,76,38);
-  background-color: #fa000056;
+  font-family: 'SubwaySansLCGRegulars';
+  background-color: #fa000000;
   height: 690px;
-  width: 90px;
-  margin-left: 795px;
-  margin-top: -690px;
+  width: 250px;
+  margin-left: 335px;
+  margin-top: -682px;
   list-style: none;
-  font-size: 35px;
+  font-size: 15px;
   line-height: 48px;
   font-weight: 800;
-  white-space: nowrap
+  white-space: nowrap;
+  overflow: hidden;
+  text-align: right
+  
 
 }
  
@@ -55,7 +59,7 @@
   height: 690px;
   width: 90px;
   margin-left: 586px;
-  margin-top: -690px;
+  margin-top: -697px;
   list-style: none;
   font-size: 35px;
   line-height: 48px;

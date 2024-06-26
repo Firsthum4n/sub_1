@@ -373,6 +373,34 @@ class App extends React.Component<IAppProps, IAppState> {
                                                 label: 'naimenovanie7',
                                             },
                                             {
+                                                name: 'naimen1',
+                                                label: 'naimen1',
+                                            },
+                                            {
+                                                name: 'naimen2',
+                                                label: 'naimen2',
+                                            },
+                                            {
+                                                name: 'naimen3',
+                                                label: 'naimen3',
+                                            },
+                                            {
+                                                name: 'naimen4',
+                                                label: 'naimen4',
+                                            },
+                                            {
+                                                name: 'naimen5',
+                                                label: 'naimen5',
+                                            },
+                                            {
+                                                name: 'naimen6',
+                                                label: 'naimen6',
+                                            },
+                                            {
+                                                name: 'naimenovanie7',
+                                                label: 'naimenovanie7',
+                                            },
+                                            {
                                                 name: 'price15_1',
                                                 label: 'price15-1',
                                             },
