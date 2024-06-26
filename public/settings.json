@@ -9,35 +9,28 @@
         "naimenovanie5": "ИНДЕЙКА",
         "naimenovanie6": "ВЕТЧИНА",
         "naimenovanie7": "ОВОЩНОЙ",
-        "cena1": "XXX |",
-        "cena2": "XXX |",
-        "cena3": "XXX |",
-        "cena4": "XXX |",
-        "cena5": "XXX |",
-        "cena6": "XXX |",
-        "cena7": "XXX |",
+        "price15_1": "XXX |",
+        "price15_2": "XXX |",
+        "price15_3": "XXX |",
+        "price15_4": "XXX |",
+        "price15_5": "XXX |",
+        "price15_6": "XXX |",
+        "price15_7": "XXX |",
+        "priceCombo_1": "XXX",
+        "priceCombo_2": "XXX",
+        "priceCombo_3": "XXX",
+        "priceCombo_4": "XXX",
+        "priceCombo_5": "XXX",
+        "priceCombo_6": "XXX",
+        "priceCombo_7": "XXX",
+        "price30_1": "| XXX",
+        "price30_2": "| XXX",
+        "price30_3": "| XXX",
+        "price30_4": "| XXX",
+        "price30_5": "| XXX",
+        "price30_6": "| XXX",
+        "price30_7": "| XXX",
         "cmsData": {
-            "title": {
-                "ru": "",
-                "en": "",
-                "es": "",
-                "pt": "",
-                "kz": ""
-            },
-            "shortDescription": {
-                "ru": "",
-                "en": "",
-                "es": "",
-                "pt": "",
-                "kz": ""
-            },
-            "description": {
-                "ru": "",
-                "en": "",
-                "es": "",
-                "pt": "",
-                "kz": ""
-            },
             "version": "1.1.2"
         }
     }

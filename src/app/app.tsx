@@ -343,7 +343,7 @@ class App extends React.Component<IAppProps, IAppState> {
                                                 label: translate('selectLanguage'),
                                                 name: 'localisation',
                                                 type: 'localisation'
-                                            }, 
+                                            },
                                             {
                                                 name: 'naimenovanie1',
                                                 label: 'naimenovanie1',
@@ -373,33 +373,89 @@ class App extends React.Component<IAppProps, IAppState> {
                                                 label: 'naimenovanie7',
                                             },
                                             {
-                                                name: 'cena1',
-                                                label: 'cena-1',
+                                                name: 'price15_1',
+                                                label: 'price15-1',
                                             },
                                             {
-                                                name: 'cena2',
-                                                label: 'cena-2',
+                                                name: 'price15_2',
+                                                label: 'price15-2',
                                             },
                                             {
-                                                name: 'cena3',
-                                                label: 'cena-3',
+                                                name: 'price15_3',
+                                                label: 'price15-3',
                                             },
                                             {
-                                                name: 'cena4',
-                                                label: 'cena-4',
+                                                name: 'price15_4',
+                                                label: 'price15-4',
                                             },
                                             {
-                                                name: 'cena5',
-                                                label: 'cena-5',
+                                                name: 'price15_5',
+                                                label: 'price15-5',
                                             },
                                             {
-                                                name: 'cena6',
-                                                label: 'cena-6',
+                                                name: 'price15_6',
+                                                label: 'price15-6',
                                             },
                                             {
-                                                name: 'cena6',
-                                                label: 'cena-6',
-                                            }
+                                                name: 'price15_7',
+                                                label: 'price15-7',
+                                            },
+                                            {
+                                                name: 'priceCombo_1',
+                                                label: 'priceCombo-1',
+                                            },
+                                            {
+                                                name: 'priceCombo_2',
+                                                label: 'priceCombo-2',
+                                            },
+                                            {
+                                                name: 'priceCombo_3',
+                                                label: 'priceCombo-3',
+                                            },
+                                            {
+                                                name: 'priceCombo_4',
+                                                label: 'priceCombo-4',
+                                            },
+                                            {
+                                                name: 'priceCombo_5',
+                                                label: 'priceCombo-5',
+                                            },
+                                            {
+                                                name: 'priceCombo_6',
+                                                label: 'priceCombo-6',
+                                            },
+                                            {
+                                                name: 'priceCombo_7',
+                                                label: 'priceCombo-7',
+                                            },
+                                            {
+                                                name: 'price30_1',
+                                                label: 'price30-1',
+                                            },
+                                            {
+                                                name: 'price30_2',
+                                                label: 'price30-2',
+                                            },
+                                            {
+                                                name: 'price30_3',
+                                                label: 'price30-3',
+                                            },
+                                            {
+                                                name: 'price30_4',
+                                                label: 'price30-4',
+                                            },
+                                            {
+                                                name: 'price30_5',
+                                                label: 'price30-5',
+                                            },
+                                            {
+                                                name: 'price30_6',
+                                                label: 'price30-6',
+                                            },
+                                            {
+                                                name: 'price30_7',
+                                                label: 'price30-7',
+                                            },
 
                                         ]
                                     },

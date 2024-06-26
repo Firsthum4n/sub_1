@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'SubwaySansLCGRegulars';
+  src: url(SubwaySansLCGRegular.otf);
+}
+
 .testWrapper {
   width: 960px;
   height: 1080px;
@@ -7,47 +12,82 @@
   position: static;
 }
 
+.arrow{
+  height: 5%;
+  background-color: rgba(255, 0, 0, 0);
+  margin-top: 125px;
+  margin-left: 55px;
+
+}
+
 .UpperText {
-  color: #097637;
-  background-color: #fa000000;
+  color: rgb(9, 76, 38);
+  background-color: #00fa0c00;
   height: 690px;
   width: 470px;
   margin-left: 50px;
-  margin-top: 258px;
+  margin-top: 100px;
   list-style: none;
-  font-size: 35px;
-  line-height: 45px;
+  font-size: 34px;
+  font-family: 'SubwaySansLCGRegulars';
+  line-height: 48px;
+  white-space: nowrap;
 }
 
+.LowerText {
+  color: rgb(9,76,38);
+  background-color: #fa000056;
+  height: 690px;
+  width: 90px;
+  margin-left: 795px;
+  margin-top: -690px;
+  list-style: none;
+  font-size: 35px;
+  line-height: 48px;
+  font-weight: 800;
+  white-space: nowrap
+
+}
+ 
 .Price15 {
-  color: #097637;
+  color: rgb(9,76,38);
   background-color: #fa000000;
   height: 690px;
   width: 90px;
   margin-left: 586px;
-  margin-top: -691px;
+  margin-top: -690px;
   list-style: none;
   font-size: 35px;
-  line-height: 45px;
-  font-weight: bold;
-
-
+  line-height: 48px;
+  font-weight: 800;
+  white-space: nowrap;
 }
 
-aside {
-  float: left;
-  margin-left: 30px;
-  margin-top: -800px;
-  background: #00000000;
-  width: 40%;
-  color: #00922565;
-  font-size: 30px;
-  font-weight: 100;
-  position: absolute;
-  
-}
-
-aside ul {
+.PriceCombo {
+  color: rgb(20,137,69);
+  background-color: #fa000000;
+  height: 690px;
+  width: 80px;
+  margin-left: 698px;
+  margin-top: -690px;
   list-style: none;
-
+  font-size: 35px;
+  line-height: 48px;
+  font-weight: 900;
+  white-space: nowrap;
 }
+
+.Price30 {
+  color: rgb(9,76,38);
+  background-color: #fa000000;
+  height: 690px;
+  width: 90px;
+  margin-left: 795px;
+  margin-top: -690px;
+  list-style: none;
+  font-size: 35px;
+  line-height: 48px;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
