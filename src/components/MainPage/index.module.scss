@@ -3,6 +3,16 @@
   src: url(SubwaySansLCGRegular.otf);
 }
 
+@font-face {
+  font-family: 'SubwaySansLCGMedium';
+  src: url(SubwaySansLCGMedium.otf);
+}
+
+@font-face {
+  font-family: 'SubwaySansLCGBold';
+  src: url(SubwaySansLCGBold.otf);
+}
+
 .testWrapper {
   width: 960px;
   height: 1080px;
@@ -25,12 +35,12 @@
   background-color: #00fa0c00;
   height: 690px;
   width: 470px;
-  margin-left: 50px;
+  margin-left: 43px;
   margin-top: 100px;
-  list-style: none;
-  font-size: 34px;
+  list-style-type: ' ';
+  font-size: 36px;
   font-family: 'SubwaySansLCGRegulars';
-  line-height: 48px;
+  line-height: 52px;
   white-space: nowrap;
 }
 
@@ -40,16 +50,16 @@
   background-color: #fa000000;
   height: 690px;
   width: 250px;
-  margin-left: 335px;
-  margin-top: -682px;
-  list-style: none;
-  font-size: 15px;
-  line-height: 48px;
+  margin-left: 327px;
+  margin-top: -684px;
+  font-size: 16px;
+  line-height: 52px;
   font-weight: 800;
   white-space: nowrap;
   overflow: hidden;
-  text-align: right
-  
+  vertical-align: top;
+  text-align: right;
+  list-style-type: ' '
 
 }
  
@@ -58,12 +68,12 @@
   background-color: #fa000000;
   height: 690px;
   width: 90px;
-  margin-left: 586px;
-  margin-top: -697px;
-  list-style: none;
-  font-size: 35px;
-  line-height: 48px;
-  font-weight: 800;
+  margin-left: 575px;
+  margin-top: -695px;
+  font-family: 'SubwaySansLCGMedium';
+  list-style-type: ' ';
+  font-size: 36px;
+  line-height: 52px;
   white-space: nowrap;
 }
 
@@ -72,12 +82,12 @@
   background-color: #fa000000;
   height: 690px;
   width: 80px;
-  margin-left: 698px;
+  margin-left: 687px;
   margin-top: -690px;
-  list-style: none;
-  font-size: 35px;
-  line-height: 48px;
-  font-weight: 900;
+  font-family: 'SubwaySansLCGBold';
+  list-style-type: ' ';
+  font-size: 36px;
+  line-height: 52px;
   white-space: nowrap;
 }
 
@@ -86,12 +96,13 @@
   background-color: #fa000000;
   height: 690px;
   width: 90px;
-  margin-left: 795px;
+  margin-left: 788px;
   margin-top: -690px;
-  list-style: none;
-  font-size: 35px;
-  line-height: 48px;
-  font-weight: 800;
+  font-family: 'SubwaySansLCGMedium';
+  list-style-type: ' ';
+  font-size: 36px;
+  line-height: 52px;
   white-space: nowrap;
 }
+
 

@@ -5,7 +5,7 @@ export declare global {
         settings: any
         authorization: any
         events: any
-        ['petrovich']: any
+        ['Subway']: any
 
         DetectOS: any
 

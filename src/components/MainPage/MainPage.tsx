@@ -42,13 +42,13 @@ export const MainPage = ({ settings, auth }: any) => {
                 <li>{settings.naimenovanie7}</li>
             </div>
             <div className={styles.LowerText} >
-                <li>{settings.naimen1}</li>
-                <li>{settings.naimen2}</li>
-                <li>{settings.naimen3}</li>
-                <li>{settings.naimen4}</li>
-                <li>{settings.naimen5}</li>
-                <li>{settings.naimen6}</li>
-                <li>{settings.naimen7}</li>
+                <li> {settings.naimen1}</li>
+                <li> {settings.naimen2}</li>
+                <li> {settings.naimen3}</li>
+                <li> {settings.naimen4}</li>
+                <li> {settings.naimen5}</li>
+                <li> {settings.naimen6}</li>
+                <li> {settings.naimen7}</li>
             </div>
             <div className={styles.Price15} >
                 <li>{settings.price15_1}</li>

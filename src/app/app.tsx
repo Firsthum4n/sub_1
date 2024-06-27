@@ -53,7 +53,7 @@ class App extends React.Component<IAppProps, IAppState> {
             clientCommunicator: undefined,
             auth: undefined,
             isAdmin: false,
-            widgetOptionsEditor: new WidgetOptionsEditor(window['petrovich']),
+            widgetOptionsEditor: new WidgetOptionsEditor(window['Subway']),
             isAuthenticationScreenOpen: false,
             widgetOptionsTemp: {}
         }
