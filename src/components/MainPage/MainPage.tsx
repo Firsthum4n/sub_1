@@ -13,24 +13,12 @@ type Files = {
 
 export const MainPage = ({ settings, auth }: any) => {
     moment.locale('ru')
-    const [currentArrow, setCurrentArrow] = useState(() => {
-        const storedArrow = localStorage.getItem('currentArrow');
-        return storedArrow ? storedArrow : arrowL; 
-    });
-
-    const handleArrowChange = () => {
-        const newArrow = currentArrow === arrowL ? arrowR : arrowL;
-        setCurrentArrow(newArrow);
-
-        // Сохраняем новое значение в localStorage
-        localStorage.setItem('currentArrow', newArrow); // <-- Исправлено здесь
-    }
 
 
     return (
         <div className={styles.testWrapper} >
-           <div className={styles.arrow} onClick={handleArrowChange}> 
-                <img src={currentArrow} alt="Стрелка"></img> 
+           <div className={styles.arrow} > 
+                <img src={arrowL} alt="Стрелка"></img> 
             </div>
             <div className={styles.UpperText} >
                 <li>{settings.naimenovanie1}</li>
